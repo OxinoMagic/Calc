@@ -1,0 +1,7 @@
+C:\Users\Noam\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Noam\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Noam\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Noam\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
+C:\Users\Noam\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Noam\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Noam\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
